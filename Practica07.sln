@@ -11,6 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica07", "Practica07\Pr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1775D0A4-9998-42BE-A511-D7E78103CDA5}"
 	ProjectSection(SolutionItems) = preProject
+		..\MvvmSample3\.gitignore = ..\MvvmSample3\.gitignore
 		FodyWeavers.xml = FodyWeavers.xml
 	EndProjectSection
 EndProject
